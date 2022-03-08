@@ -1,4 +1,4 @@
-# ra-skillbar
+# Mid-skillbar
 A nopixel inspired skillbar.
 
 ## Description
